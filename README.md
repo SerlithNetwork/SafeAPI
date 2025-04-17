@@ -1,4 +1,4 @@
-# VaultAPI - Abstraction Library API for Bukkit Plugins - [![](https://travis-ci.org/MilkBowl/VaultAPI.svg?branch=master)](https://travis-ci.org/MilkBowl/VaultAPI)
+# SafeAPI - Abstraction Library API for Bukkit Plugins - [![](https://travis-ci.org/MilkBowl/VaultAPI.svg?branch=master)](https://travis-ci.org/MilkBowl/VaultAPI)
 
 How to include the API with Maven: 
 ```xml
